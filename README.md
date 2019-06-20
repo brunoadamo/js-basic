@@ -1,4 +1,4 @@
-# Rocketseat basic JS start
+# Rocketseat basic JavaScript start
 
 Using:
  - Babel
